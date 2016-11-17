@@ -18,7 +18,6 @@ namespace Anonym.Model.DataBaseMySQL
             {
                 return command.CommandText;
             }
-
             set
             {
                 command.CommandText = value;
@@ -31,7 +30,6 @@ namespace Anonym.Model.DataBaseMySQL
             {
                 return command.CommandTimeout;
             }
-
             set
             {
                 command.CommandTimeout = value;
@@ -44,7 +42,6 @@ namespace Anonym.Model.DataBaseMySQL
             {
                 return command.CommandType;
             }
-
             set
             {
                 command.CommandType = value;
@@ -57,7 +54,6 @@ namespace Anonym.Model.DataBaseMySQL
             {
                 return command.Connection;
             }
-
             set
             {
                 command.Connection = (MySqlConnection)value;
@@ -78,7 +74,6 @@ namespace Anonym.Model.DataBaseMySQL
             {
                 return command.Transaction;
             }
-
             set
             {
                 command.Transaction = (MySqlTransaction)value;
@@ -91,7 +86,6 @@ namespace Anonym.Model.DataBaseMySQL
             {
                 return command.UpdatedRowSource;
             }
-
             set
             {
                 command.UpdatedRowSource = value;
