@@ -1,0 +1,11 @@
+D:\PROJECT\rmk\rmk\rmk\bin\Debug\rmk.exe.config
+D:\PROJECT\rmk\rmk\rmk\bin\Debug\rmk.exe
+D:\PROJECT\rmk\rmk\rmk\bin\Debug\rmk.pdb
+D:\PROJECT\rmk\rmk\rmk\bin\Debug\MySql.Data.xml
+D:\PROJECT\rmk\rmk\rmk\obj\Debug\rmk.csprojResolveAssemblyReference.cache
+D:\PROJECT\rmk\rmk\rmk\obj\Debug\rmk.exe
+D:\PROJECT\rmk\rmk\rmk\obj\Debug\rmk.pdb
+D:\PROJECT\rmk\rmk\rmk\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\PROJECT\rmk\rmk\rmk\bin\Debug\MySql.Web.xml
+D:\PROJECT\rmk\rmk\rmk\bin\Debug\MySql.Data.Entity.dll
+D:\PROJECT\rmk\rmk\rmk\obj\Debug\rmk.csproj.rmk.exe.config

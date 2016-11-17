@@ -1,0 +1,12 @@
+D:\PROJECT\rmk\rmk\rmk\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+D:\PROJECT\rmk\rmk\rmk\obj\Debug\DataBase.csproj.Anonym.exe.config
+D:\PROJECT\rmk\rmk\rmk\obj\Debug\Anonym.exe
+D:\PROJECT\rmk\rmk\rmk\obj\Debug\Anonym.pdb
+D:\PROJECT\rmk\rmk\rmk\bin\Debug\Anonym.exe.config
+D:\PROJECT\rmk\rmk\rmk\bin\Debug\Anonym.exe
+D:\PROJECT\rmk\rmk\rmk\bin\Debug\Anonym.pdb
+D:\PROJECT\rmk\rmk\rmk\bin\Debug\MySql.Data.Entity.dll
+D:\PROJECT\rmk\rmk\rmk\bin\Debug\MySql.Data.xml
+D:\PROJECT\rmk\rmk\rmk\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\PROJECT\rmk\rmk\rmk\bin\Debug\MySql.Web.xml
+D:\PROJECT\rmk\rmk\rmk\bin\Debug\DataBase.exe.config
